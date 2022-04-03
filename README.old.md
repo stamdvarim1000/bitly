@@ -1,2 +1,0 @@
-# bitly
-makes short url
