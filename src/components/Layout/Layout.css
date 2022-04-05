@@ -1,0 +1,29 @@
+.layout{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.board{
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.header{
+    display: flex;
+}
+
+.header-text{
+    margin: auto;
+    width: 50%;
+}
+
+.business-image{
+    
+}
+
+.welcome-text{
+    font-size: medium;
+    margin: auto;
+    width: 50%;
+}
